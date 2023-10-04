@@ -1,2 +1,1 @@
-# c-plus-plus-coding-journey
-this my journey to learn cpp
+Hi there! im Ishaan your avarage teen trying to something for their ⭐FUTURE⭐ and i stumbled on CODING i started with html and then cpp (i know its a big jump!) im in 7th grade and lookig forward to learn a lot of new stuff!
